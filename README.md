@@ -2,6 +2,8 @@
 
 > Simulate a grid trading bot on any KuCoin spot pair using real historical candle data — no API keys, no paid subscription.
 
+> 💬 **Need a live bot based on this system?** Reach out on Telegram: [@smmgotop](https://t.me/smmgotop)
+
 A pure-Python backtester that replays a configurable grid strategy candle-by-candle, tracking every order fill, fee, realized P&L, and portfolio balance. Results include a full trade log (CSV), open order breakdown, buy-and-hold comparison, and a quarterly performance split.
 
 ---
